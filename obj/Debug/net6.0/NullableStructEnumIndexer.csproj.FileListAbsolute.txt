@@ -1,0 +1,14 @@
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\bin\Debug\net6.0\NullableStructEnumIndexer.exe
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\bin\Debug\net6.0\NullableStructEnumIndexer.deps.json
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\bin\Debug\net6.0\NullableStructEnumIndexer.runtimeconfig.json
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\bin\Debug\net6.0\NullableStructEnumIndexer.dll
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\bin\Debug\net6.0\NullableStructEnumIndexer.pdb
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\obj\Debug\net6.0\NullableStructEnumIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\obj\Debug\net6.0\NullableStructEnumIndexer.AssemblyInfoInputs.cache
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\obj\Debug\net6.0\NullableStructEnumIndexer.AssemblyInfo.cs
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\obj\Debug\net6.0\NullableStructEnumIndexer.csproj.CoreCompileInputs.cache
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\obj\Debug\net6.0\NullableStructEnumIndexer.dll
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\obj\Debug\net6.0\refint\NullableStructEnumIndexer.dll
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\obj\Debug\net6.0\NullableStructEnumIndexer.pdb
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\obj\Debug\net6.0\NullableStructEnumIndexer.genruntimeconfig.cache
+C:\Users\BLACK\Desktop\NullableStructEnumIndexer\NullableStructEnumIndexer\obj\Debug\net6.0\ref\NullableStructEnumIndexer.dll
